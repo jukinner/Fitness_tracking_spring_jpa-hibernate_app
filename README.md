@@ -1,9 +1,2 @@
-spring_mvc_base
-===============
-
-Base project used for my Pluralsight Spring JPA and Spring Security courses among others.
-
-http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
-
-http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
+Basic Fitness tracking application for implementing JPA/Hibernate, spring security, etc.. From Bryan Hansen on Pluralsight. Using this as a base to implement some other aspects. 
 
